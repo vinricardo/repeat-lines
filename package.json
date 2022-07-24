@@ -1,0 +1,11 @@
+{
+  "name": "repeat-lines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "check": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
